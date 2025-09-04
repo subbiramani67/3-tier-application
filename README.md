@@ -64,16 +64,6 @@ In this architecture, a public-facing Application Load Balancer forwards client 
 
 ## Step 11: Create CloudTrail
 
-## Step 12: Deleting the Entire Infrastructure
-- Delete CloudFront.
-- Delete CloudWatch alarms.
-- Delete records from Route 53.
-- Delete load balancers, target groups, ASG, launch templates.
-- Delete security group.
-- Delete NAT gateway (it will take 5 mins).
-- Release elastic IP.
-- Delete VPC.
-- Delete RDS subnet group, RDS.
 
 ---
 
